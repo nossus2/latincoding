@@ -6,7 +6,6 @@ To begin, you should substitute your own, original Latin sentences for the Engli
 Do not translate the English into Latin, but be creative with vocabulary and grammar that you know.
 """
 
-
 def start():
 	print("You are Py, a villager of Codeia.")
 	adventure = input("Do you want to go on an adventure? Type in yes or no.")
